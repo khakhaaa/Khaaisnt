@@ -13,7 +13,7 @@ const links: NavbarProps[] = [
   { title: "Projects", href: "#projects" },
   {
     title: "My CV 📄",
-    href: "https://drive.google.com/file/d/14qDfgeUCwxmvGKUIivO3Q4dVEKOa7gju/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1YV90Jnf49i-IIuwerRag0b08lyzNCFRU/view?usp=sharing",
   },
 ];
 
